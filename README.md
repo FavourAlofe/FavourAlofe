@@ -1,11 +1,11 @@
 ## Hi, I'm Favour
 
 ## About Me:
-👨‍🎓 BSc Computer Science Student @ Wilfrid Laurier University (Waterloo, ON, Canada) <br> 👨‍💻 Currently learning C and Java
+👨‍🎓 BSc Computer Science Student @ Wilfrid Laurier University (Waterloo, ON, Canada)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FavourAlofe)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favoralofe@gmail.com)  
+[![Protonmail](https://img.shields.io/badge/ProtonMail-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:favouralofe@proton.me)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
